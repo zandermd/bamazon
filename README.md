@@ -6,5 +6,4 @@
 
 # Click the link below to see how it works!
 
-https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view
-[ScreenCast](https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view)
+[Bamazon Storefront!](https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view)
