@@ -95,10 +95,10 @@ displayTable();
 
 // User gets shown products (sql query)
 // User gets asked which product they want to purchase (inquirer)
-// User gets asked how many items they want for the product
-// Lookup the product in the system
-// Check to see if product has enough inventory
-// If not tell user you don't have enough
+// User gets asked how many items they want for the product (inquirer)
+// Lookup the product in the system 
+// Check to see if product has enough inventory 
+// If not tell user you don't have enough 
 // Otherwise calculate new inventory and calculate total price of order
 // Update inventory in system
 // Show user the total price of their order
