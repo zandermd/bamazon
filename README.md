@@ -6,5 +6,5 @@
 
 # Click the link below to see how it works!
 
-https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view - automatic!
-[GitHub](https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view)
+https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view
+[ScreenCast](https://drive.google.com/file/d/1wVEEz6ptVZRK4rN4kilz77YYfiZWcE2c/view)
